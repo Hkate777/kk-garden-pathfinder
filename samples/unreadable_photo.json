@@ -1,0 +1,11 @@
+{
+  "id": "unreadable_photo",
+  "question": "",
+  "steps": [],
+  "parse_status": "unreadable",
+  "expected": {
+    "error_type": "unreadable",
+    "knowledge_point": null,
+    "broken_step_contains": ""
+  }
+}

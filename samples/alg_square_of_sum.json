@@ -1,0 +1,10 @@
+{
+  "id": "alg_square_of_sum",
+  "question": "Expand (a+b)^2",
+  "steps": ["(a+b)^2 = a^2 + b^2"],
+  "expected": {
+    "error_type": "conceptual",
+    "knowledge_point": "ALG-8.3",
+    "broken_step_contains": "a^2 + b^2"
+  }
+}
