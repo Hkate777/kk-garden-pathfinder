@@ -1,0 +1,10 @@
+{
+  "id": "che_unbalanced",
+  "question": "Balance H2 + O2 -> H2O",
+  "steps": ["H2 + O2 -> H2O"],
+  "expected": {
+    "error_type": "procedural",
+    "knowledge_point": "CHE-8.1",
+    "broken_step_contains": "H2O"
+  }
+}

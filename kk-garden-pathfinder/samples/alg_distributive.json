@@ -1,0 +1,10 @@
+{
+  "id": "alg_distributive",
+  "question": "Find the value of x: 2(x+3) = 4x - 6",
+  "steps": ["2x + 3 = 4x - 6", "3 = 2x - 6", "x = 4.5"],
+  "expected": {
+    "error_type": "conceptual",
+    "knowledge_point": "ALG-7.3",
+    "broken_step_contains": "2x + 3"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "phy_unit_conversion",
+  "question": "A 500 g mass is pushed with a net force of 10 N. Find its acceleration.",
+  "steps": ["a = F/m = 10/500", "a = 0.02 m/s^2"],
+  "expected": {
+    "error_type": "procedural",
+    "knowledge_point": "PHY-9.2",
+    "broken_step_contains": "10/500"
+  }
+}
